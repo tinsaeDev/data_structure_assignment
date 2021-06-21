@@ -1,0 +1,36 @@
+ Player name: ---------------Ronaldo
+ Player Age: ----------------35
+ Player weight: -------------70
+ Player Height: -------------1.8
+ Player Position: -----------Defender
+ Player T shirt number: -----7
+Nationality : --------------Brazil
+ Salary : -------------------2222
+________________________________________________________
+ Player name: ---------------Adane
+ Player Age: ----------------21
+ Player weight: -------------23
+ Player Height: -------------432
+ Player Position: -----------Defender
+ Player T shirt number: -----13
+Nationality : --------------Ethiopia
+ Salary : -------------------232
+________________________________________________________
+ Player name: ---------------Muntari
+ Player Age: ----------------12
+ Player weight: -------------43
+ Player Height: -------------21
+ Player Position: -----------21
+ Player T shirt number: -----34
+Nationality : --------------Ghana
+ Salary : -------------------222
+________________________________________________________
+ Player name: ---------------Saladin
+ Player Age: ----------------23
+ Player weight: -------------232
+ Player Height: -------------323
+ Player Position: -----------432
+ Player T shirt number: -----42
+Nationality : --------------42
+ Salary : -------------------42
+________________________________________________________
